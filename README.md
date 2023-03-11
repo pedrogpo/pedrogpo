@@ -13,6 +13,8 @@ Sou um profissional dedicado, apaixonado por tecnologia e que busca sempre se at
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@pedrogui.com)
 [![PersonalWebsite](https://img.shields.io/badge/Personal_website-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://pedrogui.com)
 
+&#8196; &emsp13;
+
 ## Tecnologias em que trabalho
 
 Algumas das tecnologias em que tenho experiência são:
