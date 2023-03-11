@@ -8,8 +8,9 @@ Sou um profissional dedicado, apaixonado por tecnologia e que busca sempre se at
 
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogpo)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogpo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@pedrogui.com)
+[![PersonalWebsite](https://img.shields.io/badge/Personal_website-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://pedrogui.com)
 
 ## Tecnologias em que trabalho
 
