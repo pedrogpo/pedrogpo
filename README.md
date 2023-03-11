@@ -5,9 +5,7 @@
 Olá, meu nome é Pedro Guilherme e sou um desenvolvedor Front-end com ampla experiência em JavaScript/TypeScript, ReactJS/NextJS e criação de interfaces utilizando o Figma. Tenho também uma vasta experiência no desenvolvimento de softwares utilizando linguagens como C++ e Java Native Interface (JNI).
 
 Sou um profissional dedicado, apaixonado por tecnologia e que busca sempre se atualizar e aprimorar minhas habilidades. Adoro trabalhar em equipe e estou sempre aberto a novas oportunidades e desafios.
-
 <br />
-
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogpo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@pedrogui.com)
