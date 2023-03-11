@@ -6,6 +6,10 @@ Olá, meu nome é Pedro Guilherme e sou um desenvolvedor Front-end com ampla exp
 
 Sou um profissional dedicado, apaixonado por tecnologia e que busca sempre se atualizar e aprimorar minhas habilidades. Adoro trabalhar em equipe e estou sempre aberto a novas oportunidades e desafios.
 
+
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-Pedro_Guilherme-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogpo)
+
 ## Tecnologias em que trabalho
 
 Algumas das tecnologias em que tenho experiência são:
