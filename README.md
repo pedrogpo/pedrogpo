@@ -9,7 +9,7 @@ Sou um profissional dedicado, apaixonado por tecnologia e que busca sempre se at
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogpo)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
 
 ## Tecnologias em que trabalho
 
