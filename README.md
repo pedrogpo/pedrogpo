@@ -6,13 +6,6 @@ Olá, meu nome é Pedro Guilherme e sou um desenvolvedor Front-end com ampla exp
 
 Sou um profissional dedicado, apaixonado por tecnologia e que busca sempre se atualizar e aprimorar minhas habilidades. Adoro trabalhar em equipe e estou sempre aberto a novas oportunidades e desafios.
 
-
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogpo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@pedrogui.com)
-[![PersonalWebsite](https://img.shields.io/badge/Personal_website-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://pedrogui.com)
-
-
 ## Tecnologias em que trabalho
 
 Algumas das tecnologias em que tenho experiência são:
@@ -30,9 +23,10 @@ Algumas das tecnologias em que tenho experiência são:
 
 ## Contato
 
-- Email: contact@pedrogui.com
-- LinkedIn: [linkedin.com/in/pedrogpo](https://www.linkedin.com/in/pedrogpo/)
-- Site pessoal: [pedrogui.com](https://pedrogui.com)
+<!-- Your badges -->
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogpo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@pedrogui.com)
+[![PersonalWebsite](https://img.shields.io/badge/Personal_website-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://pedrogui.com)
 
 ## Contribuições
 
