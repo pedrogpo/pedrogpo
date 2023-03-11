@@ -6,14 +6,14 @@ Olá, meu nome é Pedro Guilherme e sou um desenvolvedor Front-end com ampla exp
 
 Sou um profissional dedicado, apaixonado por tecnologia e que busca sempre se atualizar e aprimorar minhas habilidades. Adoro trabalhar em equipe e estou sempre aberto a novas oportunidades e desafios.
 
-&#8196; &emsp13;
+&#8198;
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogpo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@pedrogui.com)
 [![PersonalWebsite](https://img.shields.io/badge/Personal_website-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://pedrogui.com)
 
-&#8196; &emsp13;
+&#8198;
 
 ## Tecnologias em que trabalho
 
