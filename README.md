@@ -1,14 +1,14 @@
-# Pedro Guilherme - Desenvolvedor Front-end
+# Pedro Guilherme - Front-end Developer
 
-## Sobre mim
+## About me
 
-Olá, meu nome é Pedro Guilherme e sou um desenvolvedor Front-end com ampla experiência em JavaScript/TypeScript, ReactJS/NextJS e criação de interfaces utilizando o Figma. Tenho também uma vasta experiência no desenvolvimento de softwares utilizando linguagens como C++ e Java Native Interface (JNI).
+Hello, my name is Pedro Guilherme and I'm a Front-end Developer with extensive experience in JavaScript/TypeScript, ReactJS/NextJS, and interface design using Figma. I also have vast experience in software development using languages such as C++ and Java Native Interface (JNI).
 
-Sou um profissional dedicado, apaixonado por tecnologia e que busca sempre se atualizar e aprimorar minhas habilidades. Adoro trabalhar em equipe e estou sempre aberto a novas oportunidades e desafios.
+I am a dedicated professional, passionate about technology, and always looking to update and improve my skills. I love working in teams and am always open to new opportunities and challenges.
 
-## Tecnologias em que trabalho
+## Technologies I work with
 
-Algumas das tecnologias em que tenho experiência são:
+Some of the technologies I have experience with are:
 
 - JavaScript/TypeScript
 - ReactJS/NextJS
@@ -21,26 +21,26 @@ Algumas das tecnologias em que tenho experiência são:
 - C++
 - Java Native Interface (JNI) e Java
 
-## Contato
+## Contact
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogpo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@pedrogui.com)
 [![PersonalWebsite](https://img.shields.io/badge/Personal_website-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://pedrogui.com)
 
-## Contribuições
+## Contributions
 
-Se você quiser contribuir com algum dos meus projetos, fique à vontade para abrir um pull request ou enviar um e-mail para mim.
+If you would like to contribute to any of my projects, feel free to open a pull request or send an email to me.
 
-## Habilidades
+## Skills
 
-- Desenvolvimento de aplicações Front-end
-- Criação de interfaces no Figma
-- Desenvolvimento de softwares em C++
-- Conhecimentos em banco de dados relacionais
-- Conhecimentos em Git e controle de versão
+- Front-end application development
+- Figma interface design
+- Software development in C++
+- Knowledge of relational databases
+- Knowledge of Git and version control
 
-## Idiomas
+## Languages
 
-- Português - Nativo
-- Inglês - Avançado
+- Português - Native
+- Inglês - Advanced
