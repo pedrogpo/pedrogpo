@@ -19,7 +19,7 @@ Some of the technologies I have experience with are:
 - Git
 - Bootstrap
 - C++
-- Java Native Interface (JNI) e Java
+- Java Native Interface (JNI) & Java
 
 ## Contact
 
