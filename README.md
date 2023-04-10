@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello, my name is Pedro Guilherme and I'm a FullStack Developer with extensive experience in JavaScript/TypeScript, ReactJS/NextJS, and interface design using Figma. I also have vast experience in software development using languages such as C++ and Java Native Interface (JNI).
+Hello, my name is Pedro Guilherme and I'm a FullStack Developer with extensive experience in JavaScript/TypeScript, ReactJS/NextJS, and interface design using Figma. I also have vast experience in software development using languages such as C++ and Java Native Interface (JNI). I'm learning Golang by the way :)
 
 I am a dedicated professional, passionate about technology, and always looking to update and improve my skills. I love working in teams and am always open to new opportunities and challenges.
 
@@ -34,13 +34,15 @@ If you would like to contribute to any of my projects, feel free to open a pull 
 
 ## Skills
 
-- Front-end application development
-- Figma interface design
-- Software development in C++
-- Knowledge of relational databases
-- Knowledge of Git and version control
+- Full-stack web application development using JavaScript/TypeScript, ReactJS/NextJS, and PHP
+- Designing intuitive and visually appealing user interfaces using Figma
+- Proficient in software development using C++ and Java Native Interface (JNI)
+- Familiarity with database management
+- Experience with serverless architecture and building REST APIs
+- Version control using Git for collaboration and project management
+- I have experience in envisioning, managing, and implementing strategies for projects. I have also led development teams, implemented new project management processes using agile methodologies, and improved team efficiency and productivity.
 
 ## Languages
 
-- Português - Native
+- Portuguese - Native
 - Inglês - Advanced
