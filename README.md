@@ -18,7 +18,7 @@ Some of the technologies I have experience with are:
 - REST API's
 - Git
 - Bootstrap
-- C++
+- C++ (ImGui (OpenGL/DirectX) and planning to study more about QT)
 - Java Native Interface (JNI) & Java
 
 ## Contact
