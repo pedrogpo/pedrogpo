@@ -1,4 +1,4 @@
-# Pedro Guilherme - Front-end Developer
+# Pedro Guilherme - Full-Stack Developer
 
 ## About me
 
