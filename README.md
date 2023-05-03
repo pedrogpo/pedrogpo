@@ -12,10 +12,12 @@ Some of the technologies I have experience with are:
 
 - JavaScript/TypeScript
 - ReactJS/NextJS
+- NodeJS
 - PHP
 - MySQL
 - Serverless
 - REST API's
+- Websockets
 - Git
 - Bootstrap
 - C++ (ImGui (OpenGL/DirectX) and planning to study more about QT)
@@ -34,7 +36,7 @@ If you would like to contribute to any of my projects, feel free to open a pull 
 
 ## Skills
 
-- Full-stack web application development using JavaScript/TypeScript, ReactJS/NextJS, and PHP
+- Full-stack web application development using JavaScript/TypeScript, ReactJS/NextJS, NodeJS and PHP
 - Designing intuitive and visually appealing user interfaces using Figma
 - Proficient in software development using C++ and Java Native Interface (JNI)
 - Familiarity with database management
