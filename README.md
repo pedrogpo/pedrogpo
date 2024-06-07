@@ -13,13 +13,10 @@ Some of the technologies I have experience with are:
 - JavaScript/TypeScript
 - ReactJS/NextJS
 - NodeJS
-- PHP
-- MySQL
 - Serverless
 - REST API's
 - Websockets
 - Git
-- Bootstrap
 - C++ (ImGui (OpenGL/DirectX) and planning to study more about QT)
 - Java Native Interface (JNI) & Java
 
@@ -47,4 +44,4 @@ If you would like to contribute to any of my projects, feel free to open a pull 
 ## Languages
 
 - Portuguese - Native
-- Inglês - Advanced
+- English - Advanced
